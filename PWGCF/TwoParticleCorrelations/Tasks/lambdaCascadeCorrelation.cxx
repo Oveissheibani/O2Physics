@@ -13,7 +13,6 @@
 /// \brief Correlation-balance functions of multistrange baryons
 /// \author Oveis Sheibani <oveis.sheibani@cern.ch>
 
-
 #include "PWGLF/DataModel/LFStrangenessTables.h"
 #include "PWGLF/Utils/inelGt.h"
 
